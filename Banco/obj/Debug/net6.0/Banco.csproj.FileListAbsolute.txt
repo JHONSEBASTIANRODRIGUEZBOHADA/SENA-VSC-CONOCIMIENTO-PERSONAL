@@ -1,0 +1,30 @@
+C:\Users\rodri\OneDrive\Documentos\SENA VS\3.TRIM III\Banco\obj\Debug\net6.0\Banco.csproj.AssemblyReference.cache
+C:\Users\rodri\OneDrive\Documentos\SENA VS\3.TRIM III\Banco\obj\Debug\net6.0\Banco.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rodri\OneDrive\Documentos\SENA VS\3.TRIM III\Banco\obj\Debug\net6.0\Banco.AssemblyInfoInputs.cache
+C:\Users\rodri\OneDrive\Documentos\SENA VS\3.TRIM III\Banco\obj\Debug\net6.0\Banco.AssemblyInfo.cs
+C:\Users\rodri\OneDrive\Documentos\SENA VS\3.TRIM III\Banco\obj\Debug\net6.0\Banco.csproj.CoreCompileInputs.cache
+C:\Users\rodri\OneDrive\Documentos\SENA VS\3.TRIM III\Banco\bin\Debug\net6.0\Banco.exe
+C:\Users\rodri\OneDrive\Documentos\SENA VS\3.TRIM III\Banco\bin\Debug\net6.0\Banco.deps.json
+C:\Users\rodri\OneDrive\Documentos\SENA VS\3.TRIM III\Banco\bin\Debug\net6.0\Banco.runtimeconfig.json
+C:\Users\rodri\OneDrive\Documentos\SENA VS\3.TRIM III\Banco\bin\Debug\net6.0\Banco.dll
+C:\Users\rodri\OneDrive\Documentos\SENA VS\3.TRIM III\Banco\bin\Debug\net6.0\Banco.pdb
+C:\Users\rodri\OneDrive\Documentos\SENA VS\3.TRIM III\Banco\obj\Debug\net6.0\Banco.dll
+C:\Users\rodri\OneDrive\Documentos\SENA VS\3.TRIM III\Banco\obj\Debug\net6.0\refint\Banco.dll
+C:\Users\rodri\OneDrive\Documentos\SENA VS\3.TRIM III\Banco\obj\Debug\net6.0\Banco.pdb
+C:\Users\rodri\OneDrive\Documentos\SENA VS\3.TRIM III\Banco\obj\Debug\net6.0\Banco.genruntimeconfig.cache
+C:\Users\rodri\OneDrive\Documentos\SENA VS\3.TRIM III\Banco\obj\Debug\net6.0\ref\Banco.dll
+C:\Users\FAMILIA RODRIGUEZ\Downloads\SENA-VS-TRIM-III-main\Banco\bin\Debug\net6.0\Banco.exe
+C:\Users\FAMILIA RODRIGUEZ\Downloads\SENA-VS-TRIM-III-main\Banco\bin\Debug\net6.0\Banco.deps.json
+C:\Users\FAMILIA RODRIGUEZ\Downloads\SENA-VS-TRIM-III-main\Banco\bin\Debug\net6.0\Banco.runtimeconfig.json
+C:\Users\FAMILIA RODRIGUEZ\Downloads\SENA-VS-TRIM-III-main\Banco\bin\Debug\net6.0\Banco.dll
+C:\Users\FAMILIA RODRIGUEZ\Downloads\SENA-VS-TRIM-III-main\Banco\bin\Debug\net6.0\Banco.pdb
+C:\Users\FAMILIA RODRIGUEZ\Downloads\SENA-VS-TRIM-III-main\Banco\obj\Debug\net6.0\Banco.csproj.AssemblyReference.cache
+C:\Users\FAMILIA RODRIGUEZ\Downloads\SENA-VS-TRIM-III-main\Banco\obj\Debug\net6.0\Banco.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FAMILIA RODRIGUEZ\Downloads\SENA-VS-TRIM-III-main\Banco\obj\Debug\net6.0\Banco.AssemblyInfoInputs.cache
+C:\Users\FAMILIA RODRIGUEZ\Downloads\SENA-VS-TRIM-III-main\Banco\obj\Debug\net6.0\Banco.AssemblyInfo.cs
+C:\Users\FAMILIA RODRIGUEZ\Downloads\SENA-VS-TRIM-III-main\Banco\obj\Debug\net6.0\Banco.csproj.CoreCompileInputs.cache
+C:\Users\FAMILIA RODRIGUEZ\Downloads\SENA-VS-TRIM-III-main\Banco\obj\Debug\net6.0\Banco.dll
+C:\Users\FAMILIA RODRIGUEZ\Downloads\SENA-VS-TRIM-III-main\Banco\obj\Debug\net6.0\refint\Banco.dll
+C:\Users\FAMILIA RODRIGUEZ\Downloads\SENA-VS-TRIM-III-main\Banco\obj\Debug\net6.0\Banco.pdb
+C:\Users\FAMILIA RODRIGUEZ\Downloads\SENA-VS-TRIM-III-main\Banco\obj\Debug\net6.0\Banco.genruntimeconfig.cache
+C:\Users\FAMILIA RODRIGUEZ\Downloads\SENA-VS-TRIM-III-main\Banco\obj\Debug\net6.0\ref\Banco.dll
